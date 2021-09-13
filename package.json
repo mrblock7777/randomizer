@@ -1,0 +1,18 @@
+{
+  "name": "randomizer",
+  "version": "1.0.0",
+  "description": "Generate random sequence from the list provided",
+  "main": "index.js",
+  "bin": "./bin/index.js",
+  "scripts": {
+    "start": "node ./bin/index.js"
+  },
+  "author": "Mr Block",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^8.2.0",
+    "inquirer": "^8.1.2",
+    "prompt": "^1.2.0"
+  }
+}
