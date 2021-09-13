@@ -1,2 +1,2 @@
 # randomizer
-Generate randomized list based on file input
+Generate randomized list based on file input.

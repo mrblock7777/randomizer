@@ -1,5 +1,5 @@
 {
-  "name": "randomizer",
+  "name": "@mrblock7777/randomizer",
   "version": "1.0.0",
   "description": "Generate random sequence from the list provided",
   "main": "index.js",
